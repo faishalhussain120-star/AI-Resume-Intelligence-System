@@ -47,25 +47,17 @@ This system analyzes resumes against a job description and ranks candidates base
 &nbsp;📂 Project Structure
 
 resume-intelligence-system/
-
 &nbsp;│ 
-
 &nbsp;├── app.py 
-
 &nbsp;├── utils.py 
-
 &nbsp;├── skills.py 
-
 &nbsp;├── requirements.txt 
-
-&nbsp;└── README.md
-
-
+&nbsp;├── README.md 
+&nbsp;└── .gitignore
 
 
 
 &nbsp;⚙️ Installation
-
 
 
 1\. Clone the repository
@@ -135,4 +127,5 @@ python -m streamlit run app.py
 
 
 Built as an intermediate-level AI/ML portfolio project.
+
 
